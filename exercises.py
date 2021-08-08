@@ -11,7 +11,7 @@
 
 
 # Exercise Three
-# Create a list and print each item in the list
+# Create a list and print EACH item in the list, not THE list
 
 
 # Exercise Four
